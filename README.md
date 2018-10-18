@@ -17,7 +17,7 @@ pip
 		Install the required packages.
 		<pre>
 			<code>
-pip install -r requierement.txt
+pip install -r requierements.txt
 			</code>
 		</pre>
 	</li>
